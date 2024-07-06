@@ -1,3 +1,6 @@
+![Mi Logo](https://github.com/normanthosse/images/blob/main/enginerElectronic.png)
+
+
 # 💫 About Me:
 Ingeniero electrónico apasionado por la robótica y últimamente por el desarrollo de aplicaciones móviles.
 
